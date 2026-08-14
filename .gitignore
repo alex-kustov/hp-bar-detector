@@ -216,3 +216,9 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+
+hp_roi.txt
+hp_full_width.txt
+calib_debug.png
+screenshot.png
+arucoboard.png
